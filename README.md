@@ -8,7 +8,7 @@ This is a repository for a FullStack Twitter clone tutorial using React, NextJS,
 
 
 
-[DOCKER VERSION by mandeepsingh10](https://github.com/mandeepsingh10/chwitter)
+[DOCKER VERSION by Navneet Kumar ](https://github.com/mrnavi16/twitter-clone.git)
 
 We are going to learn funcionalities such as:
 
@@ -31,13 +31,13 @@ We are going to learn funcionalities such as:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/twitter-clone.git
+git clone https://github.com/mrnavi16/twitter-clone.git
 ```
 
 ### Install packages
 
 ```shell
-npm i
+npm install --force
 ```
 
 ### Setup .env file
@@ -59,6 +59,4 @@ npm run dev
 
 Running commands with npm `npm run [command]`
 
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+
