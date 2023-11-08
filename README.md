@@ -8,8 +8,6 @@ This is a repository for a FullStack Twitter clone tutorial using React, NextJS,
 
 
 
-[DOCKER VERSION by Navneet Kumar ](https://github.com/mrnavi16/twitter-clone.git)
-
 We are going to learn funcionalities such as:
 
 - Authentication system
